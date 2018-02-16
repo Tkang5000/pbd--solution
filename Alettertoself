@@ -1,0 +1,27 @@
+
+public class Alettertoself {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		System.out.println("+------------------------------------+");
+		System.out.println("|                               #### |");
+		System.out.println("|                               #### |");
+		System.out.println("|                               #### |");
+		System.out.println("|                                    |");
+		System.out.println("|                Tony Kang           |");
+		System.out.println("|                21 Parklawn Cres    |");
+		System.out.println("|                L3T 6W9             |");
+		System.out.println("|                                    |");
+		System.out.println("|                                    |");
+		System.out.println("+------------------------------------+");
+
+		
+		
+		
+		
+		
+		
+				
+	}
+
+}
